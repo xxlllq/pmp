@@ -1,7 +1,7 @@
 # 备考PMP
 
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/result.jpg" width=400 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/result.jpg" width=200 />
     </kbd>
    </div>
 
