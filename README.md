@@ -1,4 +1,10 @@
 # 备考PMP
+
+<div align="center">
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/result.jpg" width=400 />
+    </kbd>
+   </div>
+
 - **教学视频**
 
 [百度网盘](https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ)
