@@ -9,12 +9,11 @@
 
 - **教学视频**
 
-[百度网盘](https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ)
-链接：https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ 
-提取码：bdvk 
-
-链接：https://pan.baidu.com/s/1_UDpzpcWP0uVCHD0AodhXg 
-提取码：ol1n
+|                       链接                      | 提取码 |
+|:-----------------------------------------------:|:------:|
+| https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ |  bdvk  |
+| https://pan.baidu.com/s/1_UDpzpcWP0uVCHD0AodhXg |  ol1n  |
+| https://pan.baidu.com/s/1vq0EVIgbwO3xR3SE5XRCiA |  4389  |
 
 - **教学书籍**
 
