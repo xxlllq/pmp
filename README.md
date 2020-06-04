@@ -12,8 +12,7 @@
 |                       链接                      | 提取码 |
 |:-----------------------------------------------:|:------:|
 | https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ |  bdvk  |
-| https://pan.baidu.com/s/1_UDpzpcWP0uVCHD0AodhXg |  ol1n  |
-| https://pan.baidu.com/s/1vq0EVIgbwO3xR3SE5XRCiA |  4389  |
+| https://pan.baidu.com/s/1Ub8S1_0kXyjG8HBFx4u5Sg |  urcj  |
 
 - **教学书籍**
 
