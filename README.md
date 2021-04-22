@@ -20,6 +20,12 @@
 
 - **教学书籍**
 
+<div align="center">
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/pmbook.png" width=300 />
+    </kbd>
+   </div> 
+<br><br/>
+
 | 序号 |       名称       |                       链接                      | 提取码 |
 |:----:|:----------------:|:-----------------------------------------------:|:------:|
 |   1  | PMBOK6中文版.pdf | https://pan.baidu.com/s/1Fr63O3ZbqPTS744hGqdqcQ |  mrn9  |
