@@ -21,7 +21,7 @@
 - **教学书籍**
 
 <div align="center">
-  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/pmbook.png" width=300 />
+  <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/pmbook6.png" width=300 />
     </kbd>
    </div> 
 <br><br/>
