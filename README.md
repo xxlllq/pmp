@@ -24,6 +24,7 @@
   <kbd><img src="https://raw.githubusercontent.com/xxlllq/pmp/master/pmbook6.png" width=300 />
     </kbd>
    </div> 
+   
 | 序号 |       名称       |                       链接                      | 提取码 |
 |:----:|:----------------:|:-----------------------------------------------:|:------:|
 |   1  | PMBOK6中文版.pdf | https://pan.baidu.com/s/1Fr63O3ZbqPTS744hGqdqcQ |  mrn9  |
