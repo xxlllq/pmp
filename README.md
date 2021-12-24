@@ -13,8 +13,9 @@
 
 | 序号 |           名称          |                       链接                      | 提取码 |
 |:----:|:-----------------------:|:-----------------------------------------------:|:------:|
-|   1  |      **PMP内部视频      | https://pan.baidu.com/s/1IvB_Uv_iBjtcNvQE1zngrA |  x1de  |
-|   2  |         教程视频        | https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ |  bdvk  |
+|   1  |      2021项目管理第六版资料      | https://pan.baidu.com/s/1zvity8p7ceGizz-_-5jMRA |  n44j  |
+|   2  |      **PMP内部视频      | https://pan.baidu.com/s/1IvB_Uv_iBjtcNvQE1zngrA |  x1de  |
+|   3  |         教程视频        | https://pan.baidu.com/s/1JHVdENgdoOMGTvBRJY9dNQ |  bdvk  |
 
 <br/>
 
